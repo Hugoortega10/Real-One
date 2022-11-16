@@ -1,0 +1,55 @@
+"Title:","Arrests by Age and Gender from the Arrests Database"
+"SubTitle:","Counties within State - Offense*: All Offenses - Gender: All Genders - Age: All Ages"
+"Time:","1980 - 2020"
+"Unit of Measure:","#","#","#","#","#","#"
+"Citation:","Criminal Justice Information Services Division, Federal Bureau of Investigation, Federal Bureau of Investigation (2022-02-17). Arrests: Arrests by Age and Gender | Albany, Bronx, Putnam, Queens, Rockland, Westchester | All Offenses | All Genders | All Ages, 1980 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  010-002-001 doi:https://doi.org/10.6068/DP18481F309E861"
+"ColumnCount:",7
+"RowCount:",41
+
+"Time","Albany, New York, All Offenses, All Genders, All Ages, Arrests","Bronx, New York, All Offenses, All Genders, All Ages, Arrests","Putnam, New York, All Offenses, All Genders, All Ages, Arrests","Queens, New York, All Offenses, All Genders, All Ages, Arrests","Rockland, New York, All Offenses, All Genders, All Ages, Arrests","Westchester, New York, All Offenses, All Genders, All Ages, Arrests"
+"1980",11866,,2654,268,7477,22026
+"1981",12176,3,3143,447,7951,23188
+"1982",11437,100,3492,502,7875,24062
+"1983",11123,241,3102,1170,8619,23235
+"1984",10022,527,2850,792,8473,23058
+"1985",10387,1257,2932,855,9084,23516
+"1986",10254,81,2501,1156,7710,23627
+"1987",10168,513,2675,440,7819,25356
+"1988",11525,632,2484,824,8340,28247
+"1989",13384,72,2993,569,7604,30690
+"1990",13954,138,3191,826,7516,29708
+"1991",15185,196,2408,972,6641,28710
+"1992",15176,242,2482,702,6652,22576
+"1993",15789,43,2351,771,6293,22595
+"1994",16753,91,2498,858,6350,23290
+"1995",16540,99,2275,597,7124,22999
+"1996",14592,93,1962,548,6586,25622
+"1997",16781,20,1864,510,6198,20972
+"1998",17699,37,2085,2045,5748,22259
+"1999",16848,15,2226,1687,5757,20135
+"2000",14810,21,1834,1329,5322,20799
+"2001",13883,115,1623,1614,5845,20028
+"2002",13983,172,1687,1238,5368,21927
+"2003",14589,318,1800,1431,5071,21800
+"2004",13987,339,1897,1576,6023,22748
+"2005",15281,252,2190,1463,5868,23277
+"2006",14906,219,1613,1004,6239,23575
+"2007",13391,112,1433,,6221,23720
+"2008",12258,117,1796,10,6518,22892
+"2009",11414,,1741,1123,6510,21646
+"2010",11812,,2158,,6660,20555
+"2011",10935,,2131,,5886,20903
+"2012",10068,,1870,,5800,19653
+"2013",9327,,1793,,5486,18761
+"2014",8722,3,1595,,5536,18464
+"2015",8972,1,1420,,5243,16157
+"2016",9665,,1740,,4667,16118
+"2017",9368,,1509,,4812,14860
+"2018",8436,1,1490,,4480,14710
+"2019",7337,1,1430,,3608,13054
+"2020",4625,1,1046,,2560,9395
+
+
+
+"Publisher:", "Federal Bureau of Investigation"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
